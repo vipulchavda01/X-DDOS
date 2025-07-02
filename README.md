@@ -17,5 +17,6 @@
 ## 🚀 Usage
 
 ```bash
-chmod +x X-DDOS.py
-./X-DDOS.py
+chmod +x X-DDOS
+
+./X-DDOS
