@@ -8,7 +8,9 @@
 ## ⚙️ Features
 
 - [✓] SYN Flood
-- [✓] Random User Agents
+- [✓] User-Agent Spoof
+- [✓] UDP Flood
+- [✓] Proxy Support (WIP)
 - [✓] Multithreaded requests
 - [✓] Lightweight CLI tool
 
